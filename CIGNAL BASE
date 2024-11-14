@@ -1218,6 +1218,10 @@ http://bisdaktv.store/jmrk.php?channel=566962
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvizX.md.png" group-title="KIDS EXCLUSIVES", One Anime 12
 http://bisdaktv.store/jmrk.php?channel=566963
 
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://i.ibb.co/99cTrL8/My-project-15-1-removebg-preview.png" group-title="KIDS EXCLUSIVES", Super Anime
+http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
+
+
 ````````PREMIUM MUSIC````````
 
 #EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/007/642/164/original/headphone-earphone-headset-for-music-line-pop-art-potrait-logo-colorful-design-with-dark-background-abstract-illustration-vector.jpg"
