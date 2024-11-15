@@ -1637,7 +1637,7 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolut
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/9wWbrNV/1455341b423d13d644edde109522e423732367a2169f552322aa14a614e2654d-removebg-preview.png" group-title="Movie Central",  FilmRise Anime
 https://ln.run/V-1L1
 
-```````PREMIUM DOCUMENTARIES```````
+```````Animals, Nature & History```````
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
 
@@ -1733,6 +1733,51 @@ https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lazygirldesigns.com/wp-content/uploads/2015/05/CraftsyLogo.png" group-title="RELAXIATION AREA",Craftsy
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000155Y" tvg-id="US14000155Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20240625T011442SQUARE.png" group-title="Ambiance" tvg-chno="4520",Waterfall Vibes
+https://jmp2.uk/sam-US14000155Y.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="Ambiance" tvg-chno="4578",ZenLIFE by Stingray
+https://jmp2.uk/sam-USBD3500027DS.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000119Q" tvg-id="US14000119Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000119Q_20240716T002658SQUARE.png" group-title="Ambiance" tvg-chno="4535",Beach Bonfire Vibes
+https://jmp2.uk/sam-US14000119Q.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US1500002I2" tvg-id="US1500002I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1500002I2_20240730T012809SQUARE.png" group-title="Ambiance" tvg-chno="4545",Campfire Vibes
+https://jmp2.uk/sam-US1500002I2.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20240625T011353SQUARE.png" group-title="Ambiance" tvg-chno="4585",Fireplace 4K
+https://jmp2.uk/sam-USBA3800004EL.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400007V6" tvg-id="US1400007V6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400007V6_20240625T011409SQUARE.png" group-title="Ambiance" tvg-chno="4510",Island Vibes
+https://jmp2.uk/sam-US1400007V6.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000136J" tvg-id="US14000136J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000136J_20240903T175754SQUARE.png" group-title="Ambiance" tvg-chno="4540",Lakeside Bonfire Vibes
+https://jmp2.uk/sam-US14000136J.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB1000002TK" tvg-id="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20240520T212540SQUARE.png" group-title="Ambiance" tvg-chno="4575",Loupe 4K
+https://jmp2.uk/sam-USBB1000002TK.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US700012OU" tvg-id="US700012OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20240826T191214SQUARE.png" group-title="Ambiance" tvg-chno="4505",Ocean Vibes
+https://jmp2.uk/sam-US700012OU.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000030Y" tvg-id="US14000030Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20240625T011426SQUARE.png" group-title="Ambiance" tvg-chno="4530",Rainy Day Vibes
+https://jmp2.uk/sam-US14000030Y.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Ambiance" tvg-chno="4570",Stingray Holidayscapes
+https://jmp2.uk/sam-USBD3500038R6.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="Ambiance" tvg-chno="4572",Stingray Naturescape
+https://jmp2.uk/sam-USAK3508705A.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Ambiance" tvg-chno="4580",Stingray Spa
+https://jmp2.uk/sam-USBD3500013DG.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400014N9" tvg-id="US1400014N9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400014N9_20240702T044903SQUARE.png" group-title="Ambiance" tvg-chno="4525",Storm Vibes
+https://jmp2.uk/sam-US1400014N9.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400010S0" tvg-id="US1400010S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20240709T002216SQUARE.png" group-title="Ambiance" tvg-chno="4550",Summer Vibes
+https://jmp2.uk/sam-US1400010S0.m3u8
 
 
 ```````PREMIUM SPORTS```````
