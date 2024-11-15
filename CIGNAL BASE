@@ -1641,78 +1641,78 @@ https://ln.run/V-1L1
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
 
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",HISTORY 2 HD 
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="Animals, Nature & History",HISTORY 2 HD 
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&extension=ts&play_token=rFisyspz12
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked afraid" tvg-logo="https://i.ibb.co/mvMj48h/naked-and-afraid-5589e14856c62-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",Naked afraid
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked afraid" tvg-logo="https://i.ibb.co/mvMj48h/naked-and-afraid-5589e14856c62-removebg-preview.png" group-title="Animals, Nature & History",Naked afraid
 http://user.scalecdn.co:8080/live/262301/262301/34331.m3u8
 
-#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="PREMIUM DOCUMENTARIES",WEATHER SPY
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="Animals, Nature & History",WEATHER SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="PREMIUM DOCUMENTARIES", LOVE NATURE 4K
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="Animals, Nature & HistoryPREMIUM DOCUMENTARIES", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="PREMIUM DOCUMENTARIES", REAL WILD 
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Animals, Nature & History", REAL WILD 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fFR4Y27/OIP-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",Viasat NATURE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fFR4Y27/OIP-removebg-preview.png" group-title="Animals, Nature & History",Viasat NATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f21f3b180664724be222c27aa3c7d12:22238c408bf58bc6b9ac5457e2f65043
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tusk.org/wp-content/uploads/2021/03/Primary-logo-to-use-1024x576.png" group-title="PREMIUM DOCUMENTARIES",Waterbear
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tusk.org/wp-content/uploads/2021/03/Primary-logo-to-use-1024x576.png" group-title="Animals, Nature & History",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="PREMIUM DOCUMENTARIES",Smithsonian Channel Selects
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Animals, Nature & History",Smithsonian Channel Selects
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/03/31/PlutoTV_SCIENCE_Channel_1080x1080_Square1-bexfqf2q.png" group-title="PREMIUM DOCUMENTARIES",Pluto TV Science
+#EXTINF:-1 tvg-id="" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/03/31/PlutoTV_SCIENCE_Channel_1080x1080_Square1-bexfqf2q.png" group-title="Animals, Nature & History",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
 
 
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", DISCOVERY HD
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="Animals, Nature & History", DISCOVERY HD
 https://bit.ly/4enh50d
 
-#EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Science (D)" tvg-logo="https://i.ibb.co/HGbRMkk/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="PREMIUM DOCUMENTARIES", Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Science (D)" tvg-logo="https://i.ibb.co/HGbRMkk/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="Animals, Nature & History", Discovery Science
 https://bit.ly/40myfaD
 
-#EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) DISCOVERY TURBO (D)" tvg-logo="https://img3.wikia.nocookie.net/__cb20140810164321/logosfake/images/1/12/Discovery_Turbo_HD_2014.png" group-title="PREMIUM DOCUMENTARIES", DISCOVERY TURBO 
+#EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) DISCOVERY TURBO (D)" tvg-logo="https://img3.wikia.nocookie.net/__cb20140810164321/logosfake/images/1/12/Discovery_Turbo_HD_2014.png" group-title="Animals, Nature & History", DISCOVERY TURBO 
 https://bit.ly/3AjCqJM
 
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="PREMIUM DOCUMENTARIES", ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Animals, Nature & History", ANIMAL PLANET HD
 https://bit.ly/3NLunsn
 
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2001-2005.png" group-title="PREMIUM DOCUMENTARIES",National Geographic HD
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2001-2005.png" group-title="Animals, Nature & History",National Geographic HD
 https://bit.ly/3A8e59X
 
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="PREMIUM DOCUMENTARIES", NAT Geo Wild HD
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Animals, Nature & History", NAT Geo Wild HD
 https://bit.ly/40otIV5
 
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Sony BBC EARTH HD
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="Animals, Nature & History", Sony BBC EARTH HD
 http://bit.ly/4f2VV8G
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",HISTORY HD
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="Animals, Nature & History",HISTORY HD
 https://bit.ly/3Ykz0yq
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" group-title="PREMIUM DOCUMENTARIES", Adventure Earth
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" group-title="Animals, Nature & History", Adventure Earth
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/ZJvkFLz/Autentic-History-900x506-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic History
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/ZJvkFLz/Autentic-History-900x506-removebg-preview.png" group-title="Animals, Nature & History", Autentic History
 https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8	
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/cyzcGKq/wurl-bits-a-travel-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic Travel
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/cyzcGKq/wurl-bits-a-travel-removebg-preview.png" group-title="Animals, Nature & History", Autentic Travel
 https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/Scdb73J/tmw-logo-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic Terramater Wild 
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/Scdb73J/tmw-logo-removebg-preview.png" group-title="Animals, Nature & History", Autentic Terramater Wild 
 https://autentic-terramaterwild-1-at.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/4MFjQ9f/MV5-BNz-A2-Nz-Rh-Njgt-OWQw-OC00-NDk5-LTk4-ZTkt-ZTc0-ZTRh-Nj-Vk-Yzdj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTYz-MTQ5.png" group-title="PREMIUM DOCUMENTARIES",PBS Nature
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/4MFjQ9f/MV5-BNz-A2-Nz-Rh-Njgt-OWQw-OC00-NDk5-LTk4-ZTkt-ZTc0-ZTRh-Nj-Vk-Yzdj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTYz-MTQ5.png" group-title="Animals, Nature & History",PBS Nature
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-naturetimeemeanl-lgnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/KxXQHvr/logo-maker-for-your-business-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Nature Time
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/KxXQHvr/logo-maker-for-your-business-removebg-preview.png" group-title="Animals, Nature & History", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
 
 ```````RELAXIATION AREA```````
@@ -1734,49 +1734,49 @@ https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lazygirldesigns.com/wp-content/uploads/2015/05/CraftsyLogo.png" group-title="RELAXIATION AREA",Craftsy
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US14000155Y" tvg-id="US14000155Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20240625T011442SQUARE.png" group-title="Ambiance" tvg-chno="4520",Waterfall Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000155Y" tvg-id="US14000155Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20240625T011442SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4520",Waterfall Vibes
 https://jmp2.uk/sam-US14000155Y.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="Ambiance" tvg-chno="4578",ZenLIFE by Stingray
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4578",ZenLIFE by Stingray
 https://jmp2.uk/sam-USBD3500027DS.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US14000119Q" tvg-id="US14000119Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000119Q_20240716T002658SQUARE.png" group-title="Ambiance" tvg-chno="4535",Beach Bonfire Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000119Q" tvg-id="US14000119Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000119Q_20240716T002658SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4535",Beach Bonfire Vibes
 https://jmp2.uk/sam-US14000119Q.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US1500002I2" tvg-id="US1500002I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1500002I2_20240730T012809SQUARE.png" group-title="Ambiance" tvg-chno="4545",Campfire Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US1500002I2" tvg-id="US1500002I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1500002I2_20240730T012809SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4545",Campfire Vibes
 https://jmp2.uk/sam-US1500002I2.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20240625T011353SQUARE.png" group-title="Ambiance" tvg-chno="4585",Fireplace 4K
+#EXTINF:-1 channel-id="SamsungTVPlus-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20240625T011353SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4585",Fireplace 4K
 https://jmp2.uk/sam-USBA3800004EL.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US1400007V6" tvg-id="US1400007V6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400007V6_20240625T011409SQUARE.png" group-title="Ambiance" tvg-chno="4510",Island Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400007V6" tvg-id="US1400007V6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400007V6_20240625T011409SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4510",Island Vibes
 https://jmp2.uk/sam-US1400007V6.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US14000136J" tvg-id="US14000136J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000136J_20240903T175754SQUARE.png" group-title="Ambiance" tvg-chno="4540",Lakeside Bonfire Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000136J" tvg-id="US14000136J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000136J_20240903T175754SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4540",Lakeside Bonfire Vibes
 https://jmp2.uk/sam-US14000136J.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBB1000002TK" tvg-id="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20240520T212540SQUARE.png" group-title="Ambiance" tvg-chno="4575",Loupe 4K
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB1000002TK" tvg-id="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20240520T212540SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4575",Loupe 4K
 https://jmp2.uk/sam-USBB1000002TK.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US700012OU" tvg-id="US700012OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20240826T191214SQUARE.png" group-title="Ambiance" tvg-chno="4505",Ocean Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US700012OU" tvg-id="US700012OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700012OU_20240826T191214SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4505",Ocean Vibes
 https://jmp2.uk/sam-US700012OU.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US14000030Y" tvg-id="US14000030Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20240625T011426SQUARE.png" group-title="Ambiance" tvg-chno="4530",Rainy Day Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US14000030Y" tvg-id="US14000030Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20240625T011426SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4530",Rainy Day Vibes
 https://jmp2.uk/sam-US14000030Y.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Ambiance" tvg-chno="4570",Stingray Holidayscapes
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4570",Stingray Holidayscapes
 https://jmp2.uk/sam-USBD3500038R6.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="Ambiance" tvg-chno="4572",Stingray Naturescape
+#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4572",Stingray Naturescape
 https://jmp2.uk/sam-USAK3508705A.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Ambiance" tvg-chno="4580",Stingray Spa
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4580",Stingray Spa
 https://jmp2.uk/sam-USBD3500013DG.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US1400014N9" tvg-id="US1400014N9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400014N9_20240702T044903SQUARE.png" group-title="Ambiance" tvg-chno="4525",Storm Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400014N9" tvg-id="US1400014N9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400014N9_20240702T044903SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4525",Storm Vibes
 https://jmp2.uk/sam-US1400014N9.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-US1400010S0" tvg-id="US1400010S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20240709T002216SQUARE.png" group-title="Ambiance" tvg-chno="4550",Summer Vibes
+#EXTINF:-1 channel-id="SamsungTVPlus-US1400010S0" tvg-id="US1400010S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400010S0_20240709T002216SQUARE.png" group-title="RELAXIATION AREA" tvg-chno="4550",Summer Vibes
 https://jmp2.uk/sam-US1400010S0.m3u8
 
 
