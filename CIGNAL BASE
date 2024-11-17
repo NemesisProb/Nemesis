@@ -1014,6 +1014,9 @@ http://streamnavs.net:8091/live
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
+#EXTINF:-1 channel-id="SamsungTVPlus-US800003JM" tvg-id="US800003JM" tvg-logo="https://i.ibb.co/bRDY0Mp/US800003-JM-20240709-T002122-SQUARE-removebg-preview.png" group-title="KIDS NETWORKS" tvg-chno="3724",BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="KIDS NETWORKS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ch-number="616",Nickelodeon ASIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
@@ -1135,6 +1138,12 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/5LjbnZX/462558817-1147525850278473-8257900980366747608-n-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick+ HD
 https://bit.ly/nickHDitogustomo
 
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/89TNXNj/maxresdefault-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick Jr. by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/Nm32HDh/CHAJ700003-CV-20221026-T004540-SQUARE-png-20221026004540-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
 #EXTINF:-1 tvg-id="CBeebies" group-title="KIDS EXCLUSIVES" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
@@ -1190,18 +1199,11 @@ https://jmp2.uk/sam-USAJ3504502A.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeTv" tvg-logo="https://i.ibb.co/Svh3sWH/color-Logo-PNG.png" group-title="KIDS EXCLUSIVES",AnimeTv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tsxSCW/Toonz-Kids-removebg-preview.png" group-title="KIDS EXCLUSIVES", TOONZKIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://www.pngarts.com/files/10/Bumble-Bee-Logo-Transformer-Transparent.png" tvg-chno="3200" group-title="KIDS EXCLUSIVES" , Transformers TV 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS EXCLUSIVES",Anime x Hidlve
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?x-plex-token=x88uMhP5zf6qSxiY8AqS&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1730294547&url=7c61e6530ca200a515b4223bc5eb9a8d-802876f6193b78b61f95cb764deda8a02db3122476de7dd7fc5bcf4b9963e7b00fa0a819b8ddc877341e1d756d62552189cbcb716e003bda64f6781b4981ded6403866e7a07bf2ff916fd4fc822c84bbdb6f7d8d4c61468aba23c12925e9abcbd81cd50c06540f485607bf86c09dce25d9e5e0638c28bb24668461d8a91bf9ef527098555552dda1a1df50ce1fadfb74cfada39c1baaa052804692fb5ce7460748afb5dab226d73723d88c85e054c7496a64afb070feb0385fe7a6ffe33f1eba
-
-#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYsXFqofA9yrEHWjtaq2_0bdkIy4zY2-nIqEYa6lwYDiw0C4UeZMkpW7TYmCeAwYW4I-GideXBIuMrVxBi3PzcIFpLYQb4-5BMQYuESt7mO2-V4gY2yaxjhfafRDijOtM6rHp7PVu84sFoJjDxCT62UMdGznoq4tZrnDb8I9gslTCMl5ecwgK/w640-h456/image02_Pinkfong%20Surpassing%201B%20Streams%20on%20Spotify.jpg" tvg-chno="3170" group-title="KIDS EXCLUSIVES" , Baby Shark TV 
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.tildacdn.net/tild3731-6465-4331-b761-393438343763/Kids_Print_White_-_E.png" group-title="KIDS EXCLUSIVES", B KIDS 
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
@@ -1224,26 +1226,56 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://i.ibb.co/26Nr9j0/GBBD1100010-UB-20230712-T021203-SQUARE-png-20230712021204-removebg-preview.png" group-title="KIDS EXCLUSIVES", Super Anime
 http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf5d15fc-60ea-417b-8d71-3dbaab2b3521/FilmRiseAnime_Logo_Color.png" group-title="KIDS EXLUSIVES",  FilmRise Anime
+https://ln.run/TERFL
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="Kids", SuperToons TV
+#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="KIDS EXCLUSIVES", SuperToons TV
 https://jmp2.uk/sam-GBBD5100001HL.m3u8
 
+
+
+````````CARTOONS AND ANIMATIONS```````
+
+#EXTINF:-1 group-logo="https://img2.wikia.nocookie.net/__cb20131219223713/cartoonnetwork/images/8/81/Warner_Bros._Animation_Logo.png"
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYsXFqofA9yrEHWjtaq2_0bdkIy4zY2-nIqEYa6lwYDiw0C4UeZMkpW7TYmCeAwYW4I-GideXBIuMrVxBi3PzcIFpLYQb4-5BMQYuESt7mO2-V4gY2yaxjhfafRDijOtM6rHp7PVu84sFoJjDxCT62UMdGznoq4tZrnDb8I9gslTCMl5ecwgK/w640-h456/image02_Pinkfong%20Surpassing%201B%20Streams%20on%20Spotify.jpg" tvg-chno="3170" group-title="CARTOONS AND ANIMATIONS" , Baby Shark TV 
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://www.pngarts.com/files/10/Bumble-Bee-Logo-Transformer-Transparent.png" tvg-chno="3200" group-title="CARTOONS AND ANIMATIONS" , Transformers TV 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2022/09/08/LEGO_Kids_TV_Channel_1080x1080_Square_A-7y5th6eb.png" tvg-chno="3210" group-title="CARTOONS AND ANIMATIONS" , LEGO Kids TV 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=truem
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20240520T214742SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3639",Baby Einstein
+https://jmp2.uk/sam-USBD350002338.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD490000209" tvg-id="USBD490000209" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20240826T191217SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3613",Barbie and Friends
+https://jmp2.uk/sam-USBD490000209.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US300001UO" tvg-id="US300001UO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300001UO_20240903T175736SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3645",Barney and Friends
+https://jmp2.uk/sam-US300001UO.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300012VX" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20240520T214906SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3714",batteryPOP
+https://jmp2.uk/sam-USBD3300012VX.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-US9000032J" tvg-id="US9000032J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20240528T020924SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3630",Blippi
+https://jmp2.uk/sam-US9000032J.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20240819T165356SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3648",Bob the Builder
+https://jmp2.uk/sam-USBC4400013R7.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD50000048H" tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3633",Caillou
+https://jmp2.uk/sam-USBD50000048H.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20240520T214759SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3636",Fireman Sam
+https://jmp2.uk/sam-USBD42000124T.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3654",HappyKids
+https://jmp2.uk/sam-USBC44000072I.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20240903T175808SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3627",Moonbug HD
+https://jmp2.uk/sam-USBB11000015Q.m3u8
 
 ````````PREMIUM MUSIC````````
 
