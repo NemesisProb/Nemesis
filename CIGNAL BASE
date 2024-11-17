@@ -111,7 +111,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://ln.run/c03PQ
 
 #EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
-https://wag.ika.lat/stream/1741969367
+http://rambutan.whatbox.ca:1234/stream/restream20/solarflix/master.m3u8?u=cGhjb3JuZXI=&p=011906897aea8319785bf3e3ebbfc4950a207678a7bd6b3d446a9835b510e77b
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
@@ -158,10 +158,10 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://ln.run/Zc85c
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="Local",Heart of Asia 
-https://restreamer.ganbaruby23.box.ca/597ea18c-e7b5-4615-8f40-3e49c09ea7f6.m3u8
+https://restreamer.ganbaruby23.box.ca/2531fa82-711f-40c1-bbb0-748dc3830d32.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies 
-https://restreamer.ganbaruby23.box.ca/memfs/3977eee9-e9f9-4ba5-8594-2379c4677e1f.m3u8
+https://restreamer.ganbaruby23.box.ca/23f3a75b-78c5-4c2e-9af1-cc4e06aa92ea.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Local", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
