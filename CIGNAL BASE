@@ -1283,6 +1283,12 @@ https://jmp2.uk/sam-USBB11000015Q.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Clubland" tvg-logo="https://imgur.com/Ht9w3sL.png" group-title="PREMIUM MUSIC",Clubland
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197575&extension=m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4451",NEW KPOP
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+#EXTINF:-1 channel-id="US39000038W" tvg-id="US39000038W" tvg-chno="4445" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="PREMIUM MUSIC", K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-1 channel-id="USBD3500022DN" tvg-id="USBD3500022DN" tvg-chno="4482" tvg-name="Greatest Holiday Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20241105T024201SQUARE.png" group-title="PREMIUM MUSIC", Greatest Holiday Hits
+https://jmp2.uk/sam-USBD3500022DN.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4388",Vevo '70s
 https://jmp2.uk/sam-USBD300011KQ.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4391",Vevo '80s
@@ -1363,8 +1369,6 @@ https://jmp2.uk/sam-USBD3500016NH.m3u8
 https://jmp2.uk/sam-USBD3500009Y3.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://i.ibb.co/Dt0RW1c/Tik-Tok-Radio-Logo-removebg-preview.png" group-title="PREMIUM MUSIC" tvg-chno="4403",Stingray TikTok Radio
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
-#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4451",NEW KPOP
-https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 
 
 ````````PREMIUM MOVIES````````
@@ -1687,8 +1691,8 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolut
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbcefe05-d763-4623-9afc-0c51cb677715/classictvfff63fd69fce280ad874ccbb8dd92b81_RDX2.png" group-title="Movie Central",  FilmRise Classic TV
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf5d15fc-60ea-417b-8d71-3dbaab2b3521/FilmRiseAnime_Logo_Color.png" group-title="Movie Central",  FilmRise Anime
-https://ln.run/TERFL
+
+
 
 ```````Animals, Nature & History```````
 
