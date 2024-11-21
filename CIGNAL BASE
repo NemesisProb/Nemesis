@@ -115,7 +115,7 @@ http://rambutan.whatbox.ca:1234/stream/restream20/solarflix/master.m3u8?u=cGhjb3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Local",Celestial Movies Pinoy
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1977384,RESOLUTION=720x480,FRAME-RATE=29.97,CODECS="avc1.4d401e,mp4a.40.2"
-stream.m3u8?uid=1890276282&u=free&p=0463543f5661bf24a1f4bcd9f833988241cd28ea2865611b275d116285ba1128
+http://13.250.59.27:1234/stream/ipt...4bcd9f833988241cd28ea2865611b275d116285ba1128
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
